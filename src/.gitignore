@@ -1,4 +1,5 @@
-   .idea
-   *.iml
-   out
-   *.xml
+.idea
+*.iml
+out
+*.xml
+secret.txt
